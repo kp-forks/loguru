@@ -35,7 +35,7 @@ def test_filtered_in(filter, writer):
     "filter",
     [
         "test",
-        "testss",
+        "testsx",
         "tests.",
         "tests.test_add_option_filter.",
         ".",
