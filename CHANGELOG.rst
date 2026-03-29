@@ -15,6 +15,7 @@
 - Add requirement for ``TERM`` environment variable not to be ``"dumb"`` to enable colorization (`#1287 <https://github.com/Delgan/loguru/pull/1287>`_, thanks `@snosov1 <https://github.com/snosov1>`_).
 - Make ``logger.catch()`` usable as an asynchronous context manager (`#1084 <https://github.com/Delgan/loguru/issues/1084>`_).
 - Make ``logger.catch()`` compatible with asynchronous generators (`#1302 <https://github.com/Delgan/loguru/issues/1302>`_).
+- Improve feedback for invalid format keys in logger format strings (`#1450 <https://github.com/Delgan/loguru/issues/1450>`_, thanks `@Krishnachaitanyakc <https://github.com/Krishnachaitanyakc>`_).
 
 `0.7.3`_ (2024-12-06)
 =====================
